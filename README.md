@@ -1,16 +1,17 @@
-## Hi there 👋
+# Studio ZaiYa
 
-<!--
-**studio-zaiya/studio-zaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+注文住宅の設計の現場にいる建築士として。
+育児と家事に全力投球する父親として。
+在野の生活者のひとりとして。
+Claude Codeで"欲しい"や"もしかして"をかたちにしています。
 
-Here are some ideas to get you started:
+- 判断の結果が積み上がっていく、選択型のシミュレーションゲーム
+- 住まいや暮らしの判断を、事前に練習できる仕組み
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Works
+- **育休クエスト**：共働き家庭の父親育児を題材にした選択型ブラウザゲーム（公開準備中）
+- **myscape.app**
+- その他、社内用の各種業務ツール
+
+### Links
+- X: @StudioZaiya
